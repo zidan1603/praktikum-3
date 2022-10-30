@@ -62,3 +62,37 @@ Lalu hasilnya akan seperti di bawah ini
 
 ![ss10](https://user-images.githubusercontent.com/115911489/198879495-b92a963a-46a9-4889-bab7-7ccb37515faf.JPG)
 
+Latihan 1
+
+Menggunakan String Pemformatan
+
+![ss11](https://user-images.githubusercontent.com/115911489/198879633-d1110f69-91fa-4a9f-9afa-23667e96210c.JPG)
+
+![ss12](https://user-images.githubusercontent.com/115911489/198879651-a1bb2e7f-f1d6-4f31-be5d-d2f00b408c1c.JPG)
+
+![ss13](https://user-images.githubusercontent.com/115911489/198879664-b7200c8d-be25-48cd-8ba4-167f85817ade.JPG)
+
+![ss14](https://user-images.githubusercontent.com/115911489/198879680-1b1a8391-a634-4272-b291-ef21cc810272.JPG)
+
+![ss15](https://user-images.githubusercontent.com/115911489/198879697-285f0ad0-3e46-4bf6-a6e1-c1ef0e224fbd.JPG)
+
+![ss16](https://user-images.githubusercontent.com/115911489/198879710-f802b5d6-381b-443a-ba51-614a4d65e067.JPG)
+
+Menggabungkan,Menjumlahkan,dan Variabel Distribusi
+
+![ss17](https://user-images.githubusercontent.com/115911489/198879786-c5ca0ac0-77f1-4100-9215-51f362ae6977.JPG)
+
+![ss18](https://user-images.githubusercontent.com/115911489/198879802-e3063e27-b175-47b1-b57b-5bdf3be96b37.JPG)
+
+Membuat Belah Ketupat dengan Format String
+
+![ss6](https://user-images.githubusercontent.com/115911489/198879848-b9cf02ef-1877-439b-a4ad-7479d2d8cebb.JPG)
+
+hasilnya seperti dibawah ini
+
+![ss7](https://user-images.githubusercontent.com/115911489/198879871-883d1d62-e855-4cd5-b0cc-83f45356ab10.JPG)
+
+Sekian Terimaksih
+
+
+
