@@ -25,3 +25,21 @@ r = input("Masukan jari jari lingkaran : ")
 pi = 3.14
 l = pi * int (r) * int (r)
 k = 2 * pi * int(r)
+
+![ss3](https://user-images.githubusercontent.com/115911489/198873194-00e4baaa-0dd0-4315-a575-5afdedec8857.JPG)
+
+lalu kalian output sistem program menampilkan luas dan keliling dengan cara
+
+print("Luas lingkaran : ",l)
+print("Keliling lingkaran : ",k)
+
+![ss4](https://user-images.githubusercontent.com/115911489/198873360-09c5c639-72e8-459f-955f-8dd2f4c099de.JPG)
+
+untuk jalankan program kalian klik tombol run,disini kalian masukan nilai jari jarilingkarannya
+
+![ss5](https://user-images.githubusercontent.com/115911489/198873453-c1a58216-1bc7-44f9-b0c0-830dcfcf18b2.JPG)
+
+
+
+
+
