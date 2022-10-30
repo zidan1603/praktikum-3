@@ -17,7 +17,7 @@ kalian juga bisa menambahkan main.py secara manual dengan cara seperti ini
 
 main.py kalian sudah terbuat
 
-  2. Buat program menghitung luas lingkaran dan keliling lingkaran
+  Buat program menghitung luas lingkaran dan keliling lingkaran
 
 pertama buat variabel input jari jari lingkaran, lalu buat variabel pi dengan default 3,14, jika sudah buat program sistem lingkaran dan keliling dengan kode
 
