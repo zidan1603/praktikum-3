@@ -78,11 +78,15 @@ Menggunakan String Pemformatan
 
 ![ss16](https://user-images.githubusercontent.com/115911489/198879710-f802b5d6-381b-443a-ba51-614a4d65e067.JPG)
 
+Latihan 2
+
 Menggabungkan,Menjumlahkan,dan Variabel Distribusi
 
 ![ss17](https://user-images.githubusercontent.com/115911489/198879786-c5ca0ac0-77f1-4100-9215-51f362ae6977.JPG)
 
 ![ss18](https://user-images.githubusercontent.com/115911489/198879802-e3063e27-b175-47b1-b57b-5bdf3be96b37.JPG)
+
+Latihan 3
 
 Membuat Belah Ketupat dengan Format String
 
